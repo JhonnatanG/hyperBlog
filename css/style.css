@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Concert+One&family=Forum&family=Press+Start+2P&display=swap');
+
 body {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -13,6 +15,11 @@ body {
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
+}
+
+#post {
+    font-family: 'Forum', cursive;
+    font-size: 15px;
 }
 
 #container h1 {
