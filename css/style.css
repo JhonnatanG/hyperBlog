@@ -39,5 +39,5 @@ body {
 
 #container h1 {
     font-size: 20px; /*tamaño de la letra*/
-    
+    text-align: center;
 }
