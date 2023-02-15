@@ -49,3 +49,12 @@ body {
     font-size: 20px; /*tamaño de la letra*/
     text-align: center;
 }
+
+#footer {
+    background: #37488b;
+    font-family: 'Forum', cursive;
+    color: white;
+    font-weight: bold;
+    text-align: right;
+    padding: 2px 30px 2px 0px;
+}
